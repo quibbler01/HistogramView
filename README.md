@@ -1,0 +1,2 @@
+# HistogramView
+Histogram View
